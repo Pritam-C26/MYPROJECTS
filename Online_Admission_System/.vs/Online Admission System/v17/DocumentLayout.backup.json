@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Student Online Admission\\Online Admission System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|f:\\student online admission\\online admission system\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\courselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:courselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\finalview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:finalview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\applicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:applicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\applicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:applicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\paymentgateway.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:paymentgateway.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\paymentgateway.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:paymentgateway.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\courses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:courses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|F:\\Student Online Admission\\Online Admission System\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5397EC97-7897-4762-8FEC-856C0489103F}|Online Admission System.csproj|solutionrelative:admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseList.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\CourseList.aspx",
+              "RelativeDocumentMoniker": "CourseList.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\CourseList.aspx",
+              "RelativeToolTip": "CourseList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-17T05:11:54.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseList.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\CourseList.aspx.cs",
+              "RelativeDocumentMoniker": "CourseList.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\CourseList.aspx.cs",
+              "RelativeToolTip": "CourseList.aspx.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwF4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:11:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "AdminDashboard.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\AdminDashboard.aspx",
+              "RelativeToolTip": "AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-17T05:10:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "finalView.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\finalView.aspx",
+              "RelativeDocumentMoniker": "finalView.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\finalView.aspx",
+              "RelativeToolTip": "finalView.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-17T05:08:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationForm.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\ApplicationForm.aspx.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\ApplicationForm.aspx.cs",
+              "RelativeToolTip": "ApplicationForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:00:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationForm.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\ApplicationForm.aspx",
+              "RelativeDocumentMoniker": "ApplicationForm.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\ApplicationForm.aspx",
+              "RelativeToolTip": "ApplicationForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-17T04:59:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentGateway.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\PaymentGateway.aspx.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\PaymentGateway.aspx.cs",
+              "RelativeToolTip": "PaymentGateway.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:28:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Contact.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\Contact.aspx.cs",
+              "RelativeToolTip": "Contact.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:48:21.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Courses.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\Courses.aspx.cs",
+              "RelativeDocumentMoniker": "Courses.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\Courses.aspx.cs",
+              "RelativeToolTip": "Courses.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:48:06.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "AdminDashboard.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:27:15.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboard.aspx.cs",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\StudentDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.aspx.cs",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\StudentDashboard.aspx.cs",
+              "RelativeToolTip": "StudentDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:46:05.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-08T04:40:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\Courses.aspx",
+              "RelativeDocumentMoniker": "Courses.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\Courses.aspx",
+              "RelativeToolTip": "Courses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-08T04:40:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDashboard.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\StudentDashboard.aspx",
+              "RelativeDocumentMoniker": "StudentDashboard.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\StudentDashboard.aspx",
+              "RelativeToolTip": "StudentDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-08T04:39:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-30T07:46:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentGateway.aspx",
+              "DocumentMoniker": "F:\\Student Online Admission\\Online Admission System\\PaymentGateway.aspx",
+              "RelativeDocumentMoniker": "PaymentGateway.aspx",
+              "ToolTip": "F:\\Student Online Admission\\Online Admission System\\PaymentGateway.aspx",
+              "RelativeToolTip": "PaymentGateway.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-14T11:28:45.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

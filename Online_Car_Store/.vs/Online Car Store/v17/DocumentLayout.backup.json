@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\E-Commerce Project\\Online Car Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|f:\\e-commerce project\\online car store\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\cars.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:cars.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\testdrive.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:testdrive.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\carbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:carbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\carbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:carbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\admin\\addcar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:admin\\addcar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\admin\\addcar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:admin\\addcar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\viewdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:viewdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\viewdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:viewdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|F:\\E-Commerce Project\\Online Car Store\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30521AD4-CF1A-4CDB-BB9D-D515715F70AE}|Online Car Store.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.aspx.cs",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Payment.aspx.cs",
+              "RelativeDocumentMoniker": "Payment.aspx.cs",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Payment.aspx.cs",
+              "RelativeToolTip": "Payment.aspx.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:55:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Payment.aspx",
+              "RelativeDocumentMoniker": "Payment.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Payment.aspx",
+              "RelativeToolTip": "Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-08T05:55:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDrive.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\TestDrive.aspx",
+              "RelativeDocumentMoniker": "TestDrive.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\TestDrive.aspx",
+              "RelativeToolTip": "TestDrive.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-24T17:45:24.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarBooking.aspx.cs",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\CarBooking.aspx.cs",
+              "RelativeDocumentMoniker": "CarBooking.aspx.cs",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\CarBooking.aspx.cs",
+              "RelativeToolTip": "CarBooking.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:21:07.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarBooking.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\CarBooking.aspx",
+              "RelativeDocumentMoniker": "CarBooking.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\CarBooking.aspx",
+              "RelativeToolTip": "CarBooking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-24T17:19:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "Admin\\AdminLogin.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AdminLogin.aspx",
+              "RelativeToolTip": "Admin\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-23T15:41:19.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCar.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AddCar.aspx",
+              "RelativeDocumentMoniker": "Admin\\AddCar.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AddCar.aspx",
+              "RelativeToolTip": "Admin\\AddCar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-23T15:00:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCar.aspx.cs",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AddCar.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\AddCar.aspx.cs",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Admin\\AddCar.aspx.cs",
+              "RelativeToolTip": "Admin\\AddCar.aspx.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:00:21.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cars.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Cars.aspx",
+              "RelativeDocumentMoniker": "Cars.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Cars.aspx",
+              "RelativeToolTip": "Cars.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T15:33:02.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T15:52:25.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T15:48:11.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewDetails.aspx.cs",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\ViewDetails.aspx.cs",
+              "RelativeDocumentMoniker": "ViewDetails.aspx.cs",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\ViewDetails.aspx.cs",
+              "RelativeToolTip": "ViewDetails.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:40:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewDetails.aspx",
+              "DocumentMoniker": "F:\\E-Commerce Project\\Online Car Store\\ViewDetails.aspx",
+              "RelativeDocumentMoniker": "ViewDetails.aspx",
+              "ToolTip": "F:\\E-Commerce Project\\Online Car Store\\ViewDetails.aspx",
+              "RelativeToolTip": "ViewDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-19T15:39:28.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
