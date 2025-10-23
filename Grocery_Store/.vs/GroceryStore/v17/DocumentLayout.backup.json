@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\GroceryStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|f:\\projects\\grocerystore\\admin\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|F:\\Projects\\GroceryStore\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{077126B9-CBAD-4066-B01A-EF8262F36564}|GroceryStore.csproj|solutionrelative:admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports.aspx.cs",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\Reports.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Reports.aspx.cs",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\Reports.aspx.cs",
+              "RelativeToolTip": "Admin\\Reports.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:41:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.aspx",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\Reports.aspx",
+              "RelativeDocumentMoniker": "Admin\\Reports.aspx",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\Reports.aspx",
+              "RelativeToolTip": "Admin\\Reports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-22T09:40:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUsers.aspx.cs",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\ManageUsers.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\ManageUsers.aspx.cs",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\ManageUsers.aspx.cs",
+              "RelativeToolTip": "Admin\\ManageUsers.aspx.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:05:22.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUsers.aspx",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\ManageUsers.aspx",
+              "RelativeDocumentMoniker": "Admin\\ManageUsers.aspx",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\ManageUsers.aspx",
+              "RelativeToolTip": "Admin\\ManageUsers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-19T16:04:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageOrders.aspx.cs",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\ManageOrders.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\ManageOrders.aspx.cs",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\ManageOrders.aspx.cs",
+              "RelativeToolTip": "Admin\\ManageOrders.aspx.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:21:54.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageOrders.aspx",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\ManageOrders.aspx",
+              "RelativeDocumentMoniker": "Admin\\ManageOrders.aspx",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\ManageOrders.aspx",
+              "RelativeToolTip": "Admin\\ManageOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T10:37:46.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Admin\\Dashboard.aspx",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-17T10:37:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "Admin\\AdminLogin.aspx",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\AdminLogin.aspx",
+              "RelativeToolTip": "Admin\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-16T17:32:34.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Dashboard.aspx.cs",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Admin\\Dashboard.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwA4AAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:00:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "F:\\Projects\\GroceryStore\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "F:\\Projects\\GroceryStore\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:43:19.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

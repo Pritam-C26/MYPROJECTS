@@ -1,0 +1,118 @@
+F:\Grocerry store\GroceryStore\bin\GroceryStore.dll.config
+F:\Grocerry store\GroceryStore\bin\GroceryStore.dll
+F:\Grocerry store\GroceryStore\bin\GroceryStore.pdb
+F:\Grocerry store\GroceryStore\bin\roslyn\csc.exe
+F:\Grocerry store\GroceryStore\bin\roslyn\csc.exe.config
+F:\Grocerry store\GroceryStore\bin\roslyn\csc.rsp
+F:\Grocerry store\GroceryStore\bin\roslyn\csi.exe
+F:\Grocerry store\GroceryStore\bin\roslyn\csi.exe.config
+F:\Grocerry store\GroceryStore\bin\roslyn\csi.rsp
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Grocerry store\GroceryStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.AppContext.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Collections.Immutable.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Console.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Globalization.Calendars.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.IO.Compression.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.IO.FileSystem.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Net.Http.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Net.Sockets.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.ValueTuple.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Xml.XPath.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Grocerry store\GroceryStore\bin\roslyn\vbc.exe
+F:\Grocerry store\GroceryStore\bin\roslyn\vbc.exe.config
+F:\Grocerry store\GroceryStore\bin\roslyn\vbc.rsp
+F:\Grocerry store\GroceryStore\bin\roslyn\VBCSCompiler.exe
+F:\Grocerry store\GroceryStore\bin\roslyn\VBCSCompiler.exe.config
+F:\Grocerry store\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Grocerry store\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Grocerry store\GroceryStore\obj\Debug\GroceryStore.csproj.AssemblyReference.cache
+F:\Grocerry store\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+F:\Grocerry store\GroceryStore\obj\Debug\GroceryS.9F027AE4.Up2Date
+F:\Grocerry store\GroceryStore\obj\Debug\GroceryStore.dll
+F:\Grocerry store\GroceryStore\obj\Debug\GroceryStore.pdb
+F:\Projects\GroceryStore\bin\GroceryStore.dll.config
+F:\Projects\GroceryStore\bin\GroceryStore.dll
+F:\Projects\GroceryStore\bin\GroceryStore.pdb
+F:\Projects\GroceryStore\bin\roslyn\csc.exe
+F:\Projects\GroceryStore\bin\roslyn\csc.exe.config
+F:\Projects\GroceryStore\bin\roslyn\csc.rsp
+F:\Projects\GroceryStore\bin\roslyn\csi.exe
+F:\Projects\GroceryStore\bin\roslyn\csi.exe.config
+F:\Projects\GroceryStore\bin\roslyn\csi.rsp
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\GroceryStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Projects\GroceryStore\bin\roslyn\System.AppContext.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Console.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Globalization.Calendars.dll
+F:\Projects\GroceryStore\bin\roslyn\System.IO.Compression.dll
+F:\Projects\GroceryStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Projects\GroceryStore\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\GroceryStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Net.Http.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Net.Sockets.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Projects\GroceryStore\bin\roslyn\System.ValueTuple.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\GroceryStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\GroceryStore\bin\roslyn\vbc.exe
+F:\Projects\GroceryStore\bin\roslyn\vbc.exe.config
+F:\Projects\GroceryStore\bin\roslyn\vbc.rsp
+F:\Projects\GroceryStore\bin\roslyn\VBCSCompiler.exe
+F:\Projects\GroceryStore\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\GroceryStore\obj\Debug\GroceryStore.csproj.AssemblyReference.cache
+F:\Projects\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+F:\Projects\GroceryStore\obj\Debug\GroceryS.9F027AE4.Up2Date
+F:\Projects\GroceryStore\obj\Debug\GroceryStore.dll
+F:\Projects\GroceryStore\obj\Debug\GroceryStore.pdb
