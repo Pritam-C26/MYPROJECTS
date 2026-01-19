@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Online_Doctor_Appointment_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|d:\\projects\\online_doctor_appointment_system\\doctors\\doctordashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:doctors\\doctordashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|d:\\projects\\online_doctor_appointment_system\\doctors\\doctorlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:doctors\\doctorlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|D:\\Projects\\Online_Doctor_Appointment_System\\doctors\\doctorlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:doctors\\doctorlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorDashboard.aspx",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorDashboard.aspx",
+              "RelativeDocumentMoniker": "Doctors\\DoctorDashboard.aspx",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorDashboard.aspx",
+              "RelativeToolTip": "Doctors\\DoctorDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-10T04:19:07.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorLogin.aspx",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorLogin.aspx",
+              "RelativeDocumentMoniker": "Doctors\\DoctorLogin.aspx",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorLogin.aspx",
+              "RelativeToolTip": "Doctors\\DoctorLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-09T03:41:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorLogin.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorLogin.aspx.cs",
+              "RelativeDocumentMoniker": "Doctors\\DoctorLogin.aspx.cs",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Doctors\\DoctorLogin.aspx.cs",
+              "RelativeToolTip": "Doctors\\DoctorLogin.aspx.cs",
+              "ViewState": "AgIAABoAAADAAQAAAAASwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:15:24.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Online_Doctor_Appointment_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|d:\\projects\\online_doctor_appointment_system\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|d:\\projects\\online_doctor_appointment_system\\patients\\viewprescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:patients\\viewprescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|D:\\Projects\\Online_Doctor_Appointment_System\\patients\\viewprescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7C2B8A-8B27-4FA4-A4D3-184F2237191A}|Online_Doctor_Appointment_System.csproj|solutionrelative:patients\\viewprescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-14T11:49:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewPrescription.aspx",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Patients\\ViewPrescription.aspx",
+              "RelativeDocumentMoniker": "Patients\\ViewPrescription.aspx",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Patients\\ViewPrescription.aspx",
+              "RelativeToolTip": "Patients\\ViewPrescription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-11T11:44:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewPrescription.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\Online_Doctor_Appointment_System\\Patients\\ViewPrescription.aspx.cs",
+              "RelativeDocumentMoniker": "Patients\\ViewPrescription.aspx.cs",
+              "ToolTip": "D:\\Projects\\Online_Doctor_Appointment_System\\Patients\\ViewPrescription.aspx.cs",
+              "RelativeToolTip": "Patients\\ViewPrescription.aspx.cs",
+              "ViewState": "AgIAADQAAAAAkpmZmZklwDYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:26:26.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
