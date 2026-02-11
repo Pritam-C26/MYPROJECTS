@@ -11,7 +11,7 @@ namespace Online_Admission_System
 {
     public partial class ConfirmAdmissions : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-D4Q5GRH\\SQLEXPRESS;Initial Catalog=OnlineAdmission;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
+        SqlConnection con = new SqlConnection("Data Source=DESKTOP-K5S8RJV\\SQLEXPRESS;Initial Catalog=OnlineAdmission;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
         protected void Page_Load(object sender, EventArgs e)
         {
             ConfirmAdmission();

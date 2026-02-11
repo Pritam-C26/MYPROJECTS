@@ -1,5 +1,4 @@
-﻿< %@ Page Language="C#" AutoEventWireup="true" CodeBehind="Reports.aspx.cs" Inherits="GroceryStore.Admin.Reports" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Reports.aspx.cs" Inherits="GroceryStore.Admin.Reports" %>
 
 <!DOCTYPE html>
 <html lang="en">

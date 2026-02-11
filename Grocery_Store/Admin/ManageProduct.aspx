@@ -145,11 +145,18 @@
                         <asp:BoundField DataField="Price" HeaderText="Price (₹)" />
                         <asp:BoundField DataField="CategoryID" HeaderText="CategoryID" />
         
-                        <asp:TemplateField HeaderText="Image">
+                      <asp:TemplateField HeaderText="Image">
                             <ItemTemplate>
-                                <asp:Image ID="imgProduct" runat="server" ImageUrl='<%# ResolveUrl("~/" + Eval("Image")) %>' Width="200" Height="200" CssClass="img-thumbnail" />
+                                <asp:Image 
+                                    ID="imgProduct"
+                                    runat="server"
+                                    ImageUrl='<%# "~/Image/" + Eval("Image") %>'
+                                    Width="120"
+                                    Height="120"
+                                    CssClass="img-thumbnail" />
                             </ItemTemplate>
                         </asp:TemplateField>
+
         
                         <asp:BoundField DataField="Description" HeaderText="Description" />
                         <asp:ButtonField Text="Delete" ButtonType="Button" CommandName="DeleteProduct" ControlStyle-CssClass="btn btn-danger btn-sm" />

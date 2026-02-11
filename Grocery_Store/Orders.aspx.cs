@@ -1,29 +1,29 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.Web;
 using System.Web.UI.WebControls;
 
 namespace GroceryStore
 {
     public partial class Orders : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D4Q5GRH\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-K5S8RJV\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
 
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
             {
                 // Check login status
-                if (Request.Cookies["UserID"] != null)
+                if (Request.Cookies["UserID"] == null)
                 {
-                    btnLoginLogout.Text = "Logout";
-                    lblWelcome.Text = "Welcome, " + Request.Cookies["Name"].Value;
+                    Response.Redirect("Login.aspx");
+                    return;
                 }
                 else
                 {
-                    btnLoginLogout.Text = "Login";
-                    lblWelcome.Text = "Welcome, Guest";
-                    btnLoginLogout.PostBackUrl = "Login.aspx";
+                    btnLoginLogout.Text = "Logout";
+                    lblWelcome.Text = "Welcome, " + Request.Cookies["Name"].Value;
                 }
 
                 BindOrders();
@@ -110,6 +110,20 @@ namespace GroceryStore
                     lblStatus.CssClass = "badge bg-warning text-dark p-2";
                     pnlCancel.Visible = true;
                 }
+            }
+        }
+
+        protected void btnLoginLogout_Click(object sender, EventArgs e)
+        {
+            if (Request.Cookies["UserID"] != null)
+            {
+                Session.Clear();
+                Session.Abandon();
+
+                HttpCookie userIdCookie = new HttpCookie("UserID");
+                userIdCookie.Expires = DateTime.Now.AddDays(-1);
+                Response.Cookies.Add(userIdCookie);
+                Response.Redirect("Home.aspx");
             }
         }
 

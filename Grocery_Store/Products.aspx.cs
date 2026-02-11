@@ -12,7 +12,7 @@ namespace GroceryStore
     public partial class Products : System.Web.UI.Page
     {
 
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D4Q5GRH\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-K5S8RJV\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)

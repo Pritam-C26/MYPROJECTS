@@ -106,7 +106,10 @@
                                         <div class="card product-card h-100">
                                             <!-- ✅ Make image clickable -->
                                       
-                                                <img src='<%# Eval("Image") %>' alt='<%# Eval("Name") %>' class="card-img-top" />
+                                                <img src='<%# ResolveUrl("~/Image/" + Eval("Image")) %>'
+                                                 alt='<%# Eval("Name") %>'
+                                                 class="card-img-top" />
+
                                           
 
                                             <div class="card-body text-center">

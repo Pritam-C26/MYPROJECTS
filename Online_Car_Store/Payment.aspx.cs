@@ -6,7 +6,7 @@ namespace Online_Car_Store
 {
     public partial class Payment : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D4Q5GRH\SQLEXPRESS;Initial Catalog=CarStore;Integrated Security=True;TrustServerCertificate=True");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-K5S8RJV\SQLEXPRESS;Initial Catalog=CarStore;Integrated Security=True;TrustServerCertificate=True");
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -40,7 +40,11 @@ namespace Online_Car_Store
             {
                 lblBookingId.Text = dr["BookingId"].ToString();
                 lblCarName.Text = dr["CarName"].ToString();
-                lblBookingAmount.Text = "$" + Convert.ToDecimal(dr["BookingAmount"]).ToString("C");
+                decimal amount = Convert.ToDecimal(dr["BookingAmount"]);
+
+                lblBookingAmount.Text = "$" + amount.ToString("N2"); // UI display
+                hfBookingAmount.Value = amount.ToString();           // actual numeric value
+
                 hfCarId.Value = dr["CarId"].ToString();
                 hfUserId.Value = dr["UserId"].ToString();
             }
@@ -69,19 +73,41 @@ namespace Online_Car_Store
 
         protected void btnPay_Click(object sender, EventArgs e)
         {
+            // Safety checks
+            if (string.IsNullOrEmpty(lblBookingId.Text) ||
+                string.IsNullOrEmpty(hfCarId.Value) ||
+                string.IsNullOrEmpty(hfUserId.Value) ||
+                string.IsNullOrEmpty(hfBookingAmount.Value))
+            {
+                ClientScript.RegisterStartupScript(
+                    this.GetType(),
+                    "alert",
+                    "alert('Payment data missing. Please try again.');",
+                    true
+                );
+                return;
+            }
+
             int bookingId = Convert.ToInt32(lblBookingId.Text);
             int carId = Convert.ToInt32(hfCarId.Value);
             int userId = Convert.ToInt32(hfUserId.Value);
-            decimal bookingAmount = Convert.ToDecimal(lblBookingAmount.Text.Replace("$", "").Trim());
+            decimal bookingAmount = Convert.ToDecimal(hfBookingAmount.Value);
 
             string paymentMethod = GetSelectPaymentMethod();
             string paymentDetails = "";
 
-            // Collect payment details based on method
+            // Collect payment details safely
             if (paymentMethod == "Card")
             {
-                paymentDetails = "Card Ending:XXXX-XXXX-XXXX-" + txtCardNumber.Text.Substring(txtCardNumber.Text.Length - 4);
-                                
+                if (txtCardNumber.Text.Length < 4)
+                {
+                    ClientScript.RegisterStartupScript(this.GetType(), "alert",
+                        "alert('Invalid card number');", true);
+                    return;
+                }
+
+                paymentDetails = "Card Ending: XXXX-XXXX-XXXX-" +
+                                 txtCardNumber.Text.Substring(txtCardNumber.Text.Length - 4);
             }
             else if (paymentMethod == "UPI")
             {
@@ -93,13 +119,20 @@ namespace Online_Car_Store
             }
             else
             {
-                paymentDetails = "No details provided";
+                ClientScript.RegisterStartupScript(this.GetType(), "alert",
+                    "alert('Please select a payment method');", true);
+                return;
             }
 
-            // Insert into Payments table including PaymentDetails
-            string query = @"INSERT INTO Payments(BookingId,CarId,UserId,BookingAmount,PaymentDate,PaymentStatus,PaymentMode,PaymentDetails)
-                             VALUES(@BookingId,@CarId,@UserId,@BookingAmount,@PaymentDate,@PaymentStatus,@PaymentMode,@PaymentDetails)";
-            SqlCommand cmd = new SqlCommand(query, con);
+            // Insert payment record
+            string insertQuery = @"
+        INSERT INTO Payments
+        (BookingId, CarId, UserId, BookingAmount, PaymentDate, PaymentStatus, PaymentMode, PaymentDetails)
+        VALUES
+        (@BookingId, @CarId, @UserId, @BookingAmount, @PaymentDate, @PaymentStatus, @PaymentMode, @PaymentDetails)
+    ";
+
+            SqlCommand cmd = new SqlCommand(insertQuery, con);
             cmd.Parameters.AddWithValue("@BookingId", bookingId);
             cmd.Parameters.AddWithValue("@CarId", carId);
             cmd.Parameters.AddWithValue("@UserId", userId);
@@ -110,18 +143,26 @@ namespace Online_Car_Store
             cmd.Parameters.AddWithValue("@PaymentDetails", paymentDetails);
 
             con.Open();
-            int result = cmd.ExecuteNonQuery();
+            cmd.ExecuteNonQuery();
             con.Close();
 
-            // Update PaymentStatus to Complete (you may want to change logic in real-world scenarios)
-            string updateQuery = @"UPDATE Payments SET PaymentStatus='Complete' WHERE BookingId=@BookingId";
+            // Update payment status to Complete
+            string updateQuery = @"UPDATE Payments SET PaymentStatus = 'Complete' WHERE BookingId = @BookingId";
             SqlCommand updateCmd = new SqlCommand(updateQuery, con);
             updateCmd.Parameters.AddWithValue("@BookingId", bookingId);
+
             con.Open();
             updateCmd.ExecuteNonQuery();
             con.Close();
 
-            ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Payment Successful!');window.location='Recipt.aspx?BookingId=" + bookingId + "';", true);
+            // Redirect to receipt
+            ClientScript.RegisterStartupScript(
+                this.GetType(),
+                "alert",
+                "alert('Payment Successful!');window.location='Recipt.aspx?BookingId=" + bookingId + "';",
+                true
+            );
         }
+
     }
 }

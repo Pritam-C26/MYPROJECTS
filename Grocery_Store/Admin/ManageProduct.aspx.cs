@@ -13,7 +13,7 @@ namespace GroceryStore.Admin
     public partial class ManageProduct : System.Web.UI.Page
     {
 
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-D4Q5GRH\\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=DESKTOP-K5S8RJV\\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -58,21 +58,27 @@ namespace GroceryStore.Admin
 
         protected void btnAdd_Click(object sender, EventArgs e)
         {
-            string imgPath = ""; 
+            string imgPath = "";
 
             if (fuImage.HasFile)
             {
-                string folderPath = Server.MapPath("Image/");
+                string folderPath = Server.MapPath("~/Image/");
                 if (!Directory.Exists(folderPath))
                 {
                     Directory.CreateDirectory(folderPath);
                 }
 
-                string ePath = folderPath + Path.GetFileName(fuImage.FileName);
-                fuImage.SaveAs(ePath);
+                // safer unique filename
+                string fileName = Guid.NewGuid().ToString() + Path.GetExtension(fuImage.FileName);
+                string fullPath = Path.Combine(folderPath, fileName);
 
-                imgPath = "Image/" + Path.GetFileName(fuImage.FileName);
+                fuImage.SaveAs(fullPath);
+
+            
+                imgPath = fileName;
             }
+
+
 
             // Now the adding to the database
             if (txtName.Text != "" && txtPrice.Text != "" && txtCategoryID.Text != "" && txtDescription.Text != "")

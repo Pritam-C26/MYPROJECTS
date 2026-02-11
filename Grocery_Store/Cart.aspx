@@ -63,9 +63,12 @@
                           EmptyDataText="Your cart is empty 😞" ShowHeaderWhenEmpty="True" OnRowCommand="gvCart_RowCommand" DataKeyNames="CartID">
                 <Columns>
                     <asp:TemplateField HeaderText="Product Image">
-                        <ItemTemplate>
-                            <img src='<%# Eval("Image") %>' alt="Product" style="width:80px;height:80px;object-fit:cover;border-radius:10px;" />
+                       <ItemTemplate>
+                            <img src='<%# ResolveUrl("~/Image/") + Eval("Image") %>'
+                                 alt="Product"
+                                 style="width:80px;height:80px;object-fit:cover;border-radius:10px;" />
                         </ItemTemplate>
+
                     </asp:TemplateField>
                     <asp:BoundField DataField="Name" HeaderText="Product Name" />
                     <asp:BoundField DataField="Description" HeaderText="Description" />

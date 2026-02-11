@@ -80,7 +80,10 @@
                 
                 <!-- Left: Product Image + Details + Cancel Button -->
                 <div class="d-flex align-items-center">
-                    <img src='<%# Eval("Image") %>' alt="Product Image" class="order-img me-4" />
+                    <img src='<%# ResolveUrl("~/Image/") + Eval("Image") %>'
+                     alt="Product Image"
+                     class="order-img me-4" />
+
                     <div class="order-details">
                         <h5 class="card-title mb-1"><%# Eval("Name") %></h5>
                         <p class="mb-1"><strong>Order ID:</strong> <%# Eval("OrderID") %></p>

@@ -188,7 +188,7 @@
       <div class="contact-card">
         <i class="fa-solid fa-location-dot"></i>
         <h5 class="mt-2">Address</h5>
-        <p>123 MG Road, Bengaluru, India</p>
+        <p>123 MG Road, Kolkata, India</p>
       </div>
     </div>
   </div>

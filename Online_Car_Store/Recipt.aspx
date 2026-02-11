@@ -91,6 +91,33 @@
                 display: none;
             }
         }
+
+
+.btn-back-premium {
+    width: 50%;
+    padding: 14px 20px;
+    border-radius: 50px;
+    border: none;
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #fff;
+    background: linear-gradient(135deg, #0d6efd, #0047ab);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+    transition: all 0.3s ease;
+    display: block;
+    margin: 25px auto 0;
+    text-align: center;
+}
+
+
+.btn-back-premium:hover {
+    background: linear-gradient(135deg, #0047ab, #0d6efd);
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.4);
+}
+
+
     </style>
 </head>
 <body>
@@ -123,7 +150,12 @@
                 <p>For support, contact us at support@wheelz.com or call 1800-123-456.</p>
             </div>
         </div>
+
+        <asp:Button ID="btnback" runat="server" Text="← Back to Home" CssClass="btn-back-premium" OnClick="btnback_Click" />
+
     </form>
+
+    
 
     <script>
         function printReceipt() {

@@ -11,7 +11,7 @@ namespace GroceryStore
 {
     public partial class Cart : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D4Q5GRH\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-K5S8RJV\SQLEXPRESS;Initial Catalog=GroceryStoreDB;Integrated Security=True;Encrypt=False");
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -31,7 +31,19 @@ namespace GroceryStore
             }
 
         }
+        protected void btnLoginLogout_Click(object sender, EventArgs e)
+        {
+            if (Request.Cookies["UserID"] != null)
+            {
+                Session.Clear();
+                Session.Abandon();
 
+                HttpCookie userIdCookie = new HttpCookie("UserID");
+                userIdCookie.Expires = DateTime.Now.AddDays(-1);
+                Response.Cookies.Add(userIdCookie);
+                Response.Redirect("Home.aspx");
+            }
+        }
 
         private void loadCart()
         {

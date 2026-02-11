@@ -102,6 +102,8 @@
                         <!-- Hidden fields to store IDs -->
                         <asp:HiddenField ID="hfCarId" runat="server" />
                         <asp:HiddenField ID="hfUserId" runat="server" />
+                        <asp:HiddenField ID="hfBookingAmount" runat="server" />
+
 
                         <!-- Action Buttons -->
                         <div class="d-flex justify-content-between mt-4">
