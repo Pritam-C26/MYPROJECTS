@@ -1,7 +1,7 @@
 # MYPROJECTS  
 This repository contains two projects developed in ASP.NET and C#:  
 
-********Most Important - create the database on your own database name, which will be written in the .sql file******* 
+********Most Important - create the database name on your own, which will be written in the .sql file******* 
 
 1. **Online Admission System** – A web-based system for managing student admissions.  
 2. **Bus Ticket Booking System** – A web app for booking and managing bus tickets.  
